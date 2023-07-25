@@ -24,8 +24,12 @@ Welcome to the repository for the VoiceAttack Plugin Template. This guide will h
 ```
    \bin\Debug\net472
 ```
+5. Copy the contents of the `net427` file to a new folder in VoiceAttack's `Apps` directory.
 
-You should now have the VoiceAttack plugin project (targeting .NET 4.7.2) up and running on your local machine. If you encounter any issues or have questions, don't hesitate to ask for help!
+Congratulations! You should now have the VoiceAttack plugin project up and running on your local machine and see the following output:
+![image](https://github.com/Somfic/Plugin-Template/assets/29230467/0c68688d-e030-4a2e-b95f-a1731fca6453)
+
+If you encounter any issues or have questions, don't hesitate to ask for help!
 
 # Guide to the `Plugin.cs` file
 
